@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Alien Plant",
+      "image": "./images/pilea.jpg",
+      "price": "50.99",
+      "id": 8
+    },
+    {
+      "name": "Alien Plant",
+      "image": "./images/pilea.jpg",
+      "price": "51",
+      "id": 9
     }
   ]
 }
